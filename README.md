@@ -4,6 +4,12 @@ Have you ever needed to copy a given user from a production database into your l
 
 Forceps lets you copy related models from one database into another. The source and target databases must support an active record connection. Typically, your source database is a remote production database and your target database is a local development one.
 
+## Fork feature
+
+This fork is intended for any version of Rails
+
+ONLY FOR DEVELOPMENT
+
 ## Installing
 
 In your `Gemfile`:
